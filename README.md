@@ -1,2 +1,2 @@
-# CCP
-Configurable Crowd Profiles [SIGGRAPH 2022]
+# CCP - Configurable Crowd Profiles [SIGGRAPH 2022]
+
