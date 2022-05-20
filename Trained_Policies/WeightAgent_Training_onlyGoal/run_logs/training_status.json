@@ -1,0 +1,65 @@
+{
+    "WeightAgent_Training_onlyGoal": {
+        "checkpoints": [
+            {
+                "steps": 127999968,
+                "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-127999968.onnx",
+                "reward": 0.6113515983562212,
+                "creation_time": 1643053379.7545228,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-127999968.pt"
+                ]
+            },
+            {
+                "steps": 128499936,
+                "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-128499936.onnx",
+                "reward": 1.4583577530251608,
+                "creation_time": 1643053763.7680206,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-128499936.pt"
+                ]
+            },
+            {
+                "steps": 128999998,
+                "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-128999998.onnx",
+                "reward": 0.47530610931496464,
+                "creation_time": 1643054172.0445201,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-128999998.pt"
+                ]
+            },
+            {
+                "steps": 129499993,
+                "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-129499993.onnx",
+                "reward": 1.7280555334356096,
+                "creation_time": 1643054553.0520215,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-129499993.pt"
+                ]
+            },
+            {
+                "steps": 129666271,
+                "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-129666271.onnx",
+                "reward": 1.5931663827172347,
+                "creation_time": 1643054677.5845218,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-129666271.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 129666271,
+            "file_path": "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal.onnx",
+            "reward": 1.5931663827172347,
+            "creation_time": 1643054677.5845218,
+            "auxillary_file_paths": [
+                "results\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal\\WeightAgent_Training_onlyGoal-129666271.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cpu"
+    }
+}

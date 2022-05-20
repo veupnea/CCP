@@ -1,0 +1,65 @@
+{
+    "WeightAgent_Training": {
+        "checkpoints": [
+            {
+                "steps": 446499944,
+                "file_path": "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-446499944.onnx",
+                "reward": -0.551509409465573,
+                "creation_time": 1641237625.6825547,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-446499944.pt"
+                ]
+            },
+            {
+                "steps": 446999938,
+                "file_path": "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-446999938.onnx",
+                "reward": -0.07446396816521883,
+                "creation_time": 1641237990.7311327,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-446999938.pt"
+                ]
+            },
+            {
+                "steps": 447499984,
+                "file_path": "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-447499984.onnx",
+                "reward": -0.23560994490981102,
+                "creation_time": 1641238358.000096,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-447499984.pt"
+                ]
+            },
+            {
+                "steps": 447999971,
+                "file_path": "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-447999971.onnx",
+                "reward": -0.6868083558299325,
+                "creation_time": 1641238731.728371,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-447999971.pt"
+                ]
+            },
+            {
+                "steps": 448147191,
+                "file_path": "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-448147191.onnx",
+                "reward": 1.6549344696570187,
+                "creation_time": 1641238843.352811,
+                "auxillary_file_paths": [
+                    "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-448147191.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 448147191,
+            "file_path": "results\\WeightAgent_Training\\WeightAgent_Training.onnx",
+            "reward": 1.6549344696570187,
+            "creation_time": 1641238843.352811,
+            "auxillary_file_paths": [
+                "results\\WeightAgent_Training\\WeightAgent_Training\\WeightAgent_Training-448147191.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cpu"
+    }
+}
