@@ -1,6 +1,6 @@
 ## CCP - Configurable Crowd Profiles [SIGGRAPH 2022]
 <a href="https://orcid.org/0000-0002-7614-1059" target="_blank">Andreas Panayiotou</a>, <a href="https://orcid.org/0000-0003-0699-2445" target="_blank">Theodoros Kyriakou</a>, <a href="https://orcid.org/0000-0001-9854-3369" target="_blank">Marilena Lemonari</a>, <a href="http://www.cs.ucy.ac.cy/~yiorgos/" target="_blank">Yiorgos
-Chrysanthou</a> , and <a href="https://totis77.github.io/" target="_blank">Panayiotis Charalambous</a>
+Chrysanthou</a> ,and <a href="https://totis77.github.io/" target="_blank">Panayiotis Charalambous</a>
 
 ![Demo Image](https://github.com/veupnea/CCP/blob/main/Images/demo.png)
 
