@@ -11,7 +11,7 @@ Diversity among agents' behaviors and heterogeneity in virtual crowds in general
 <br>
 
 <p align="center">
-	- <a href="https://www.youtube.com/watch?v=k5SAOnisBas" target="_blank">Video</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP_Configurable_Crowd_Profiles.pdf" target="_blank">Paper</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/Documentation.pdf" target="_blank">Documentation</a> - </p>
+	- <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP_Configurable_Crowd_Profiles.pdf" target="_blank">Paper</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/Documentation.pdf" target="_blank">Documentation</a> | <a href="https://www.youtube.com/watch?v=k5SAOnisBas" target="_blank">Video</a> | <a href="https://www.youtube.com/watch?v=VkHZQYRP0w4" target="_blank">Fast Forward Video</a> -
 </p>
 
 <br>
