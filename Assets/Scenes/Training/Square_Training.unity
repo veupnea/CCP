@@ -2514,26 +2514,26 @@ MonoBehaviour:
   spawnGradually: 0
   spawnGraduallyNumber: 0
   spawnEqually: 0
+  gridSpawn: 0
+  setAllInteraction: 0
+  timeToInheritWeights: 0
+  maxDistance: 50
+  keepInheritWeights: 0
+  inheritWeightsDistance: 0
+  agentPrefab: {fileID: 1826103560682691058, guid: 731bd6324ec46f746a616293c42469ab,
+    type: 3}
+  coloredWeights: 0
   oneEpisodeOnly: 0
   unlimitedEpisodeSteps: 0
   disappearOnGoal: 1
-  gridSpawn: 0
+  oppositeGoal: 0
   circularSpawn: 0
   circularSpawnRadius: 0
-  oppositeGoal: 0
-  setAllInteraction: 0
   demoScenes: 0
   multiBehaviors: 0
   goalPercentage: 0
   groupPercentage: 0
   interactionPercentage: 0
-  timeToInheritWeights: 0
-  agentPrefab: {fileID: 1826103560682691058, guid: 731bd6324ec46f746a616293c42469ab,
-    type: 3}
-  coloredWeights: 0
-  maxDistance: 0
-  keepInheritWeights: 0
-  inheritWeightsDistance: 0
   extreameWeights: 0
   goalWeight: 0
   collisionWeight: 0
