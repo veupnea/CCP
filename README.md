@@ -1,6 +1,11 @@
-## CCP: Configurable Crowd Profiles [SIGGRAPH 2022]
+<div align="center">
+<h1>CCP: Configurable Crowd Profiles</h1>
 <a href="https://www.apanayiotou.com/" target="_blank">Andreas Panayiotou</a>, <a href="https://www.theodoroskyriakou.com" target="_blank">Theodoros Kyriakou</a>, <a href="https://marilenalemonari.github.io/" target="_blank">Marilena Lemonari</a>, <a href="http://www.cs.ucy.ac.cy/~yiorgos/" target="_blank">Yiorgos
 Chrysanthou</a>, and <a href="https://totis77.github.io/" target="_blank">Panayiotis Charalambous</a>
+
+SIGGRAPH22 Conference Proceeding: Special Interest Group on Computer Graphics and Interactive Techniques Conference Proceedings</br>
+August 2022
+</div>
 
 ![Demo Image](https://github.com/veupnea/CCP/blob/main/Images/demo.png)
 
