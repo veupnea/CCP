@@ -1,10 +1,10 @@
 <div align="center">
 <h1>CCP: Configurable Crowd Profiles</h1>
-<a href="https://www.apanayiotou.com/" target="_blank">Andreas Panayiotou</a>, <a href="https://www.theodoroskyriakou.com" target="_blank">Theodoros Kyriakou</a>, <a href="https://marilenalemonari.github.io/" target="_blank">Marilena Lemonari</a>, <a href="http://www.cs.ucy.ac.cy/~yiorgos/" target="_blank">Yiorgos
+<strong><a href="https://www.apanayiotou.com/" target="_blank">Andreas Panayiotou</a>, <a href="https://www.theodoroskyriakou.com" target="_blank">Theodoros Kyriakou</a>, <a href="https://marilenalemonari.github.io/" target="_blank">Marilena Lemonari</a>, <a href="http://www.cs.ucy.ac.cy/~yiorgos/" target="_blank">Yiorgos
 Chrysanthou</a>, and <a href="https://totis77.github.io/" target="_blank">Panayiotis Charalambous</a>
 
 SIGGRAPH22 Conference Proceeding: Special Interest Group on Computer Graphics and Interactive Techniques Conference Proceedings</br>
-August 2022
+August 2022</strong>
 </div>
 
 ![Demo Image](https://github.com/veupnea/CCP/blob/main/Images/demo.png)
@@ -15,8 +15,9 @@ Diversity among agents' behaviors and heterogeneity in virtual crowds in general
 
 <br>
 
-<p align="center">
+<p align="center"><strong>
 	- <a href="https://dl.acm.org/doi/10.1145/3528233.3530712" target="_blank">Publication</a>  | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP_Configurable_Crowd_Profiles.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/Documentation.pdf" target="_blank">Documentation</a> | <a href="https://www.youtube.com/watch?v=k5SAOnisBas" target="_blank">Video</a> | <a href="https://www.youtube.com/watch?v=VkHZQYRP0w4" target="_blank">Fast Forward Video</a> -
+</strong>
 </p>
 
 <br>
