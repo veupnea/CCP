@@ -20,6 +20,10 @@ Diversity among agents' behaviors and heterogeneity in virtual crowds in general
 </strong>
 </p>
 
+<p align="center"><strong>
+ <a href="https://veupnea.github.io/publication_pages/siggraph22-ccp.html" target="_blank">Project Page at VEUPNEA Website
+</strong></p>
+
 <br>
 
 <p align="center" dir="auto">
