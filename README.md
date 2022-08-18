@@ -16,7 +16,7 @@ Diversity among agents' behaviors and heterogeneity in virtual crowds in general
 <br>
 
 <p align="center"><strong>
-	- <a href="https://dl.acm.org/doi/10.1145/3528233.3530712" target="_blank">Publication</a>  | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP_Configurable_Crowd_Profiles.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/Documentation.pdf" target="_blank">Documentation</a> | <a href="https://www.youtube.com/watch?v=k5SAOnisBas" target="_blank">Video</a> | <a href="https://www.youtube.com/watch?v=VkHZQYRP0w4" target="_blank">Fast Forward Video</a> -
+	- <a href="https://dl.acm.org/doi/10.1145/3528233.3530712" target="_blank">Publication</a>  | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP_Configurable_Crowd_Profiles.pdf" target="_blank">PDF Paper</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/Documentation.pdf" target="_blank">Documentation</a> | <a href="https://www.youtube.com/watch?v=k5SAOnisBas" target="_blank">Video</a> | <a href="https://www.youtube.com/watch?v=VkHZQYRP0w4" target="_blank">Fast Forward Video</a> | <a href="https://github.com/veupnea/CCP/blob/main/PDF%20Files/CCP-Poster.pdf" target="_blank">Poster</a> -
 </strong>
 </p>
 
